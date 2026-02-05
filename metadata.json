@@ -1,6 +1,15 @@
 {
-  "name": "TtaBong",  
-  "symbol": "TB",         
-  "description": "Test TtaBong Token! ",
-  "image": "https://ibb.co/VGGKBzc"  
-}
+       name: KKTest,
+       symbol: KKT,
+       description: This is my test token,
+       image: https://raw.githubusercontent.com/guitaru79/TtaBong/main/hand_16064636.png,
+       attributes: [],
+       properties: {
+         files: [
+           {
+             uri: https://raw.githubusercontent.com/guitaru79/TtaBong/main/hand_16064636.png,
+             type: image/png
+           }
+         ]
+       }
+     }
